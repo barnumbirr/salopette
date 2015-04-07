@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/c0ding/salopette/master/doc/salopette.png" alt="salopette" title="salopette">
 
+[![PyPi Version](http://img.shields.io/pypi/v/salopette.svg)](https://pypi.python.org/pypi/salopette/)   [![Downloads](http://img.shields.io/pypi/dm/salopette.svg)](https://pypi.python.org/pypi/salopette/)
+[![Code Health](https://landscape.io/github/c0ding/salopette/master/landscape.svg)](https://landscape.io/github/c0ding/salopette/master)
+
 **salopette** is an APACHE licensed library written in Python.
 
 ## Installation:
