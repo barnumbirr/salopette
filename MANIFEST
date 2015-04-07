@@ -1,0 +1,5 @@
+COPYING
+setup.py
+README.md
+salopette/core.py
+salopette/__init__.py
